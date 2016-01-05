@@ -27,6 +27,7 @@ Message in frequencies is:
  **"2400 + 440 + 2420 + 440 + 2440"**
  
 ### Tools
-* http://onlinetonegenerator.com/ (for generating)
-* https://play.google.com/store/apps/details?id=com.keuwl.audiofrequencycounter (for detection)
+* http://raphaelduartepinheiro.github.io/frequency-message-generator/ (for generating according with this repo)
+* http://onlinetonegenerator.com/ (for test generating)
+* https://play.google.com/store/apps/details?id=com.keuwl.audiofrequencycounter (for test detection)
 
