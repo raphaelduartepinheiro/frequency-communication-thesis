@@ -25,6 +25,10 @@ c -> 99th
 "a" turns into 2400 (460 + 97 * 20)  
 Message in frequencies is:
  **"2400 + 440 + 2420 + 440 + 2440"**
+
+#### Musicalization
+
+All the frequencies must obey to a scale. Major, minor, so on... The intent is to let a set of frequencies be nice to ears.
  
 ### Tools
 * http://raphaelduartepinheiro.github.io/frequency-message-generator/ (for generating according with this repo)
