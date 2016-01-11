@@ -9,6 +9,9 @@ A set of sound frequencies to transfer text data and hyperlinks. Using frequenci
 ### Frequency and wave type
 Some recording devices are not able to collect mid-high(> 3 KHz)/low(< 300 Hz) frequency well since they are not build for it. This project aims on mobile record devices which works better on **mid-high** ranges. The wave type chosen was **square** due its physical properties.
 
+### Musicalization
+All the frequencies must obey to a scale. Major, minor, so on... The intent is to let a set of frequencies be nice to ears.
+
 ### Building the message
 ##### Handshake
 The first segment of the message is a handshake, compound by 3 specific frequencies(380, 400, 420 Hz) + frequency separator (440 Hz):
@@ -25,10 +28,6 @@ c -> 99th
 "a" turns into 2400 (460 + 97 * 20)  
 Message in frequencies is:
  **"2400 + 440 + 2420 + 440 + 2440"**
-
-#### Musicalization
-
-All the frequencies must obey to a scale. Major, minor, so on... The intent is to let a set of frequencies be nice to ears.
  
 ### Tools
 * http://raphaelduartepinheiro.github.io/frequency-message-generator/ (for generating according with this repo)
